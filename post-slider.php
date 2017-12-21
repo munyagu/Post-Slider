@@ -7,7 +7,7 @@ Description: Insert simple slider to post.
 Requires at least: 4.5
 Tested up to: 4.9
 Requires PHP: 5.2.17
-Version: 0.1
+Version: 0.1.0
 Author: munyagu
 Author URI: http://munyagu.com/
 License: GPL2
